@@ -1,4 +1,4 @@
-XTensor Playground
+XTensor ACTS Playground
 ==================
 Abstract
 --------
