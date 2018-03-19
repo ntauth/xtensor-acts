@@ -7,8 +7,8 @@ This repository contains a C++14 cmake project based on xtensor. Feel free to us
 Build
 --------
 1. Fork this repository
-2. `git clone https://github.com/your_username/xtensor-pground`
-3. `cd xtensor-pground`
+2. `git clone https://github.com/your_username/xtensor-acts`
+3. `cd xtensor-acts`
 4. `cmake . -DXTENSOR_INCLUDE_DIR="path_to_xtensor_include_dir"`
 5. `make`
 
